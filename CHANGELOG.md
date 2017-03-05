@@ -1,3 +1,9 @@
+<a name="1.2.1"></a>
+# 1.2.1 (2016-03-March)
+
++ CHORE: bump fix version
++ JS: Fix for ezpModel watching
+
 <a name="1.2.0"></a>
 # 1.2.0 (2016-24-August)
 
